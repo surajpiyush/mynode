@@ -1,0 +1,16 @@
+{
+  "name": "instagram-backend",
+  "version": "1.0.0",
+  "description": "This project is a clone of instagram",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon App.js"
+  },
+  "author": "Piyush Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0",
+    "nodemon": "^2.0.19"
+  }
+}
